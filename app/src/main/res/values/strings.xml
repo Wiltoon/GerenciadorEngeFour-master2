@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Gerenciador de Vendas</string>
+    <string name="salvar">Salvar</string>
+    <string name="voltar">Voltar</string>
+    <string name="nome_obrigatorio">O nome é de preenchimento obrigatório!</string>
+    <string name="telefone_obigatorio">O telefone é de preenchimento obrigatório!</string>
+    <string name="email_obrigatorio">O email é de preenchimento obrigatório!</string>
+    <string name="valor_obrigatorio">O valor é de preenchimento obrigatório!</string>
+    <string name="registro_salvo_sucesso">Registro salvo com sucesso!</string>
+    <string name="certeza_excluir">Tem certeza que deseja excluir?</string>
+</resources>

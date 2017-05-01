@@ -1,0 +1,119 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\wilton\AndroidStudioProjects\GerenciadorEngeFour-master\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\Users\wilton\AndroidStudioProjects\GerenciadorEngeFour-master\app\src\main\AndroidManifest.xml:3:5-65
+		INJECTED from C:\Users\wilton\AndroidStudioProjects\GerenciadorEngeFour-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wilton\AndroidStudioProjects\GerenciadorEngeFour-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\wilton\AndroidStudioProjects\GerenciadorEngeFour-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wilton\AndroidStudioProjects\GerenciadorEngeFour-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\wilton\AndroidStudioProjects\GerenciadorEngeFour-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\wilton\AndroidStudioProjects\GerenciadorEngeFour-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wilton\AndroidStudioProjects\GerenciadorEngeFour-master\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\wilton\AndroidStudioProjects\GerenciadorEngeFour-master\app\src\main\AndroidManifest.xml:5:5-27:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\wilton\.android\build-cache\d9259a898650180451c56800ea728b4a55790c5a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\wilton\.android\build-cache\24946c582bcf140fc4173764ce3fdeca42491855\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\wilton\.android\build-cache\f41f3483f92262a5a74957293d979d958c683227\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\wilton\.android\build-cache\e9b54b03c92790c69d22034ac1a74f3ab0486dd6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\wilton\.android\build-cache\d73aac72883d280a89aa8043e59967ccb1750298\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\wilton\.android\build-cache\326362bd364ebe22996c8c5214fcb7e30e3b3443\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\wilton\.android\build-cache\265029d002cb622fdc18991b2666d5978b2e639f\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\wilton\.android\build-cache\4a42632f52c68eceeb067953f279a557b3a52e39\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\wilton\.android\build-cache\9c9c4d97dcd657efea756294052b81d12c31268b\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\wilton\AndroidStudioProjects\GerenciadorEngeFour-master\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\wilton\AndroidStudioProjects\GerenciadorEngeFour-master\app\src\main\AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from C:\Users\wilton\AndroidStudioProjects\GerenciadorEngeFour-master\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\wilton\AndroidStudioProjects\GerenciadorEngeFour-master\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\wilton\AndroidStudioProjects\GerenciadorEngeFour-master\app\src\main\AndroidManifest.xml:10:9-40
+activity#gerenciador.engefourjunior.com.gerenciadorengefour.MainActivity
+ADDED from C:\Users\wilton\AndroidStudioProjects\GerenciadorEngeFour-master\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from C:\Users\wilton\AndroidStudioProjects\GerenciadorEngeFour-master\app\src\main\AndroidManifest.xml:11:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\wilton\AndroidStudioProjects\GerenciadorEngeFour-master\app\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\wilton\AndroidStudioProjects\GerenciadorEngeFour-master\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from C:\Users\wilton\AndroidStudioProjects\GerenciadorEngeFour-master\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\wilton\AndroidStudioProjects\GerenciadorEngeFour-master\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from C:\Users\wilton\AndroidStudioProjects\GerenciadorEngeFour-master\app\src\main\AndroidManifest.xml:15:27-74
+activity#gerenciador.engefourjunior.com.gerenciadorengefour.CadastrarClienteActivity
+ADDED from C:\Users\wilton\AndroidStudioProjects\GerenciadorEngeFour-master\app\src\main\AndroidManifest.xml:18:9-62
+	android:name
+		ADDED from C:\Users\wilton\AndroidStudioProjects\GerenciadorEngeFour-master\app\src\main\AndroidManifest.xml:18:19-59
+activity#gerenciador.engefourjunior.com.gerenciadorengefour.ConsultarClienteActivity
+ADDED from C:\Users\wilton\AndroidStudioProjects\GerenciadorEngeFour-master\app\src\main\AndroidManifest.xml:19:9-62
+	android:name
+		ADDED from C:\Users\wilton\AndroidStudioProjects\GerenciadorEngeFour-master\app\src\main\AndroidManifest.xml:19:19-59
+activity#gerenciador.engefourjunior.com.gerenciadorengefour.EditarClienteActivity
+ADDED from C:\Users\wilton\AndroidStudioProjects\GerenciadorEngeFour-master\app\src\main\AndroidManifest.xml:20:9-59
+	android:name
+		ADDED from C:\Users\wilton\AndroidStudioProjects\GerenciadorEngeFour-master\app\src\main\AndroidManifest.xml:20:19-56
+activity#gerenciador.engefourjunior.com.gerenciadorengefour.CadastrarProdutoActivity
+ADDED from C:\Users\wilton\AndroidStudioProjects\GerenciadorEngeFour-master\app\src\main\AndroidManifest.xml:21:9-62
+	android:name
+		ADDED from C:\Users\wilton\AndroidStudioProjects\GerenciadorEngeFour-master\app\src\main\AndroidManifest.xml:21:19-59
+activity#gerenciador.engefourjunior.com.gerenciadorengefour.ConsultarProdutoActivity
+ADDED from C:\Users\wilton\AndroidStudioProjects\GerenciadorEngeFour-master\app\src\main\AndroidManifest.xml:22:9-62
+	android:name
+		ADDED from C:\Users\wilton\AndroidStudioProjects\GerenciadorEngeFour-master\app\src\main\AndroidManifest.xml:22:19-59
+activity#gerenciador.engefourjunior.com.gerenciadorengefour.EditarProdutoActivity
+ADDED from C:\Users\wilton\AndroidStudioProjects\GerenciadorEngeFour-master\app\src\main\AndroidManifest.xml:23:9-59
+	android:name
+		ADDED from C:\Users\wilton\AndroidStudioProjects\GerenciadorEngeFour-master\app\src\main\AndroidManifest.xml:23:19-56
+activity#gerenciador.engefourjunior.com.gerenciadorengefour.CadastrarVendaActivity
+ADDED from C:\Users\wilton\AndroidStudioProjects\GerenciadorEngeFour-master\app\src\main\AndroidManifest.xml:24:9-60
+	android:name
+		ADDED from C:\Users\wilton\AndroidStudioProjects\GerenciadorEngeFour-master\app\src\main\AndroidManifest.xml:24:19-57
+activity#gerenciador.engefourjunior.com.gerenciadorengefour.ConsultarVendaActivity
+ADDED from C:\Users\wilton\AndroidStudioProjects\GerenciadorEngeFour-master\app\src\main\AndroidManifest.xml:25:9-59
+	android:name
+		ADDED from C:\Users\wilton\AndroidStudioProjects\GerenciadorEngeFour-master\app\src\main\AndroidManifest.xml:25:19-57
+activity#gerenciador.engefourjunior.com.gerenciadorengefour.EditarVendaActivity
+ADDED from C:\Users\wilton\AndroidStudioProjects\GerenciadorEngeFour-master\app\src\main\AndroidManifest.xml:26:9-57
+	android:name
+		ADDED from C:\Users\wilton\AndroidStudioProjects\GerenciadorEngeFour-master\app\src\main\AndroidManifest.xml:26:19-54
+uses-sdk
+INJECTED from C:\Users\wilton\AndroidStudioProjects\GerenciadorEngeFour-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\wilton\.android\build-cache\d9259a898650180451c56800ea728b4a55790c5a\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\wilton\.android\build-cache\24946c582bcf140fc4173764ce3fdeca42491855\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\wilton\.android\build-cache\f41f3483f92262a5a74957293d979d958c683227\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\wilton\.android\build-cache\e9b54b03c92790c69d22034ac1a74f3ab0486dd6\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\wilton\.android\build-cache\d73aac72883d280a89aa8043e59967ccb1750298\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\wilton\.android\build-cache\326362bd364ebe22996c8c5214fcb7e30e3b3443\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\wilton\.android\build-cache\265029d002cb622fdc18991b2666d5978b2e639f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\wilton\.android\build-cache\4a42632f52c68eceeb067953f279a557b3a52e39\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\wilton\.android\build-cache\9c9c4d97dcd657efea756294052b81d12c31268b\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\wilton\.android\build-cache\d9259a898650180451c56800ea728b4a55790c5a\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\wilton\AndroidStudioProjects\GerenciadorEngeFour-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wilton\AndroidStudioProjects\GerenciadorEngeFour-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\wilton\AndroidStudioProjects\GerenciadorEngeFour-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wilton\AndroidStudioProjects\GerenciadorEngeFour-master\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\wilton\.android\build-cache\d9259a898650180451c56800ea728b4a55790c5a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\wilton\.android\build-cache\24946c582bcf140fc4173764ce3fdeca42491855\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\wilton\.android\build-cache\f41f3483f92262a5a74957293d979d958c683227\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\wilton\.android\build-cache\e9b54b03c92790c69d22034ac1a74f3ab0486dd6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\wilton\.android\build-cache\d73aac72883d280a89aa8043e59967ccb1750298\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\wilton\.android\build-cache\326362bd364ebe22996c8c5214fcb7e30e3b3443\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\wilton\.android\build-cache\265029d002cb622fdc18991b2666d5978b2e639f\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\wilton\.android\build-cache\4a42632f52c68eceeb067953f279a557b3a52e39\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\wilton\.android\build-cache\9c9c4d97dcd657efea756294052b81d12c31268b\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\wilton\.android\build-cache\d9259a898650180451c56800ea728b4a55790c5a\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\wilton\.android\build-cache\d9259a898650180451c56800ea728b4a55790c5a\output\AndroidManifest.xml:26:9-47

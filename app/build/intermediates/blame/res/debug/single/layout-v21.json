@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\GerenciadorEngeFour-master1\\GerenciadorEngeFour-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Usuario\\.android\\build-cache\\c1857c41773bc2983b26cbfc910ca4d0cf70f774\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\GerenciadorEngeFour-master1\\GerenciadorEngeFour-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Usuario\\.android\\build-cache\\c1857c41773bc2983b26cbfc910ca4d0cf70f774\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\wilton\\AndroidStudioProjects\\GerenciadorEngeFour-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\wilton\\.android\\build-cache\\d9259a898650180451c56800ea728b4a55790c5a\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\GerenciadorEngeFour-master1\\GerenciadorEngeFour-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Usuario\\.android\\build-cache\\c1857c41773bc2983b26cbfc910ca4d0cf70f774\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\wilton\\AndroidStudioProjects\\GerenciadorEngeFour-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\wilton\\.android\\build-cache\\d9259a898650180451c56800ea728b4a55790c5a\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\GerenciadorEngeFour-master1\\GerenciadorEngeFour-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Usuario\\.android\\build-cache\\c1857c41773bc2983b26cbfc910ca4d0cf70f774\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\wilton\\AndroidStudioProjects\\GerenciadorEngeFour-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\wilton\\.android\\build-cache\\d9259a898650180451c56800ea728b4a55790c5a\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\wilton\\AndroidStudioProjects\\GerenciadorEngeFour-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\wilton\\.android\\build-cache\\d9259a898650180451c56800ea728b4a55790c5a\\output\\res\\layout-v21\\notification_action.xml"
+    }
+]
